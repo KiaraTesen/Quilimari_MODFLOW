@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 ####                ruta_WEAP se especifica según la PC del usuario     ####
 ############################################################################
 
-version = 'SWI2_v1'
+version = 'SWI2_v1.1'
 start_year = 1980
 end_year = 2020
 
